@@ -6,4 +6,3 @@ Test different go http muxers
 2. go-chi
 
 This repo uses vendor directory but not go mod.
-
